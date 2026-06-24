@@ -10,9 +10,7 @@ The application provides centralized notification tracking, priority alert manag
 
 ## 🚀 Live Demo
 
-Add your deployed Render URL here:
-
-https://your-render-url.onrender.com
+https://alertflow-jtk3.onrender.com
 
 ---
 
