@@ -7,8 +7,7 @@ import { dirname } from "path";
 // Define TypeScript types inline or import them (importing works with tsx)
 import { Notification, ActivityLog, Priority } from "./src/types.js";
 
-const __filename = fileURLToPath(import.meta.url);
-const __dirname = dirname(__filename);
+const __dirname = process.cwd();
 
 const app = express();
 const PORT = 3000;
